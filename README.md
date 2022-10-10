@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Symfony**
 
-- 📫 How to reach me here **https://linktr.ee/mrjordan_c**
+- 📫 You can reach me here **https://linktr.ee/mrjordan_c**
 
-- ⚡ Fun fact **Most of the time I don't know what I'm doing**
+- ⚡ Fun fact **most of the time I don't know what I'm doing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
