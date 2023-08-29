@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordan</h1>
 <h3 align="center">A computer science student from France</h3>
 
-- 🌱 Student at Webtech Institute, Lyon
+- 🌱 Student at <a href="https://webtech.institute/">Webtech Institute, Lyon</a>
 
 - 📫 You can reach me here **https://linktr.ee/mrjordan_c**
 
