@@ -3,8 +3,6 @@
 
 - 🌍 I'm based in Lyon, France
 - 🖥️ See my portfolio [here](http://thejordandev.github.io/)
-- 🧠 I'm learning Typo3
-- 🌱 Student at <a href="https://webtech.institute/">Webtech Institute, Lyon</a>
 - 📫 You can reach me here **https://linktr.ee/mrjordan_c**
 - ⚡ Fun fact **most of the time I don't know what I'm doing**
 
